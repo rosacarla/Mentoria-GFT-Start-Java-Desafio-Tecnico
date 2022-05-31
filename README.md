@@ -1,4 +1,4 @@
-# ♟️Desafio Técnico GFT Start Woman Java
+# ♟️Mentoria: Desafio Técnico GFT Start Woman Java
 
 <p align="justify">Mentoria com objetivo de realizar exercícios práticos para ajudar na resoluçao do Desafio Técnico que poderá ser proposto após conclusão do Bootcamp GFT Start Woman Java.</p>
 
@@ -51,7 +51,7 @@
 	<p>
 	Regras:<br>
 		a) A entrada deverá estar entre 1000 e 9999;<br>
-		b) Se o usuário digitar 3 dígitos ou menos, o Programa avisa que tem que conter 4 dígitos e continuar a programação até a resposta final.<br>	
+		b) Se o usuário digitar 3 dígitos ou menos, o Programa avisa que deve conter 4 dígitos e continua a programação até a resposta final.<br>	
 		</p>
 </li>
 <li>
@@ -69,7 +69,7 @@
 <li>
 <p>
 	<strong>Funcionários:</strong><br>
-	Considerando o diagrama abaixo, feito para uma empresa de vendas. Nesse contexto, utilize o conceito de Herança para remodelá-lo e implemente um programa que explore o domínio em questão:<br> 
+	Considerando o diagrama abaixo, feito para uma empresa de vendas, nesse contexto utilize o conceito de Herança para remodelá-lo e implemente um programa que explore o domínio em questão:<br> 
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/Hz5c08z/Screenshot-from-2022-05-23-15-16-50.png" alt="Screenshot-from-2022-05-23-15-16-50" border="0"></a>
 </p>
 	<p>
@@ -91,25 +91,25 @@
 Faça um programa que implemente um jogo de Craps. O jogador lança um par de dados, obtendo um valor entre 2 e 12.<br>
 
 Regras:<br>
-
-a) Se, na primeira jogada, você tirar 7 ou 11, você é um "Natural" e ganha;<br>
-b) Se você tirar 2, 3 ou 12 na primeira jogada, isto é chamado de "Craps" e você perdeu;<br>
-c) Se, na primeira jogada, você fez um 4, 5, 6, 8, 9 ou 10, este é seu "Ponto";<br>
+a) Se, na primeira jogada, tirar 7 ou 11, você é um "Natural" e ganha;<br>
+b) Se tirar 2, 3 ou 12 na primeira jogada, isto é chamado de "Craps" e você perdeu;<br>
+c) Se, na primeira jogada, fizer um 4, 5, 6, 8, 9 ou 10, este é seu "Ponto";<br>
 d) Seu objetivo agora é continuar jogando os dados até tirar este número novamente;<br>
 e) Você perde, no entanto, se tirar um 7 antes de tirar este Ponto novamente.<br>
 </p>  
 
 ---  
 
-## 🏁Soluções propostas  
+## 🏁Soluções desenvolvidas
 
-[Classe Numero Reverso](https://github.com/rosacarla/Mentoria-GFT-Start-Java-Desafio-Tecnico/blob/master/src/desafios/NumeroReverso.java)  
+[Classe NumeroReverso](https://github.com/rosacarla/Mentoria-GFT-Start-Java-Desafio-Tecnico/blob/master/src/desafios/NumeroReverso.java)  
 [Classe Macaco](https://github.com/rosacarla/Mentoria-GFT-Start-Java-Desafio-Tecnico/blob/master/src/desafios/Macaco.java)  
-[Classe Funcionarios](https://github.com/rosacarla/Mentoria-GFT-Start-Java-Desafio-Tecnico/tree/master/src/desafios/funcionarios)  
-[Jogo Craps](https://github.com/rosacarla/Mentoria-GFT-Start-Java-Desafio-Tecnico/blob/master/src/desafios/desafio/JogoCraps.java)  
-[Main - para execução dos códigos](https://github.com/rosacarla/Mentoria-GFT-Start-Java-Desafio-Tecnico/blob/master/src/Main.java)  
+[Pacote Funcionarios](https://github.com/rosacarla/Mentoria-GFT-Start-Java-Desafio-Tecnico/tree/master/src/desafios/funcionarios)  
+[Classe JogoCraps](https://github.com/rosacarla/Mentoria-GFT-Start-Java-Desafio-Tecnico/blob/master/src/desafios/desafio/JogoCraps.java)  
+[Classe Main - para executar códigos](https://github.com/rosacarla/Mentoria-GFT-Start-Java-Desafio-Tecnico/blob/master/src/Main.java)  
 
----
+---  
+
 ## ✍️ Autora  
 
 Carla Edila Silveira  
@@ -119,7 +119,9 @@ Contato: rosa.carla@pucpr.edu.br
 
 ## 🔗 Links úteis  
 
-[]()  
-[]()  
+[Exercícios resolvidos de Orientação a Objetos em Java](https://dev.to/guilhermemanzano/exercicios-resolvidos-de-orientacao-a-objetos-em-java-4b6g)  
+[Java Collections: Como utilizar Collections](https://www.devmedia.com.br/java-collections-como-utilizar-collections/18450)  
+[Java e Orientação a Objetos > Resoluções de Exercícios](https://www.alura.com.br/apostila-java-orientacao-objetos/resolucoes-exercicios?gclid=Cj0KCQjw-daUBhCIARIsALbkjSbgCqqHxJHTyPyo3OarlvROfOLrtsLXPTdvUkNrZmCfeHqPVhPUDW8aAiVfEALw_wcB)  
+[POO - Programação Orientada a Objetos - Exercícios Resolvidos de Java](https://www.arquivodecodigos.com.br/dicas/3435-java-poo-programacao-orientada-a-objetos-exercicio-resolvido-2-a-classe-circulo-construtores-metodos-getters-e-setters-e-encapsulamento.html)  
 
 ---
