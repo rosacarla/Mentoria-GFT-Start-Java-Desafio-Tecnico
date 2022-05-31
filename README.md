@@ -1,6 +1,6 @@
 # ♟️Desafio Técnico GFT Start Woman Java
 
-<p align="justify">Mentoria com objetivo de realizar exercícios práticos que ajudem a resolver Desafio Técnico que poderá ser proposto após conclusão do Bootcamp GFT Start Woman Java.</p>
+<p align="justify">Mentoria com objetivo de realizar exercícios práticos para ajudar na resoluçao do Desafio Técnico que poderá ser proposto após conclusão do Bootcamp GFT Start Woman Java.</p>
 
 ---  
 
