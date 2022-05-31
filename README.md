@@ -1,6 +1,4 @@
-# Desafio Técnico GFT Start Woman Java
-
-<h1><p align="center"> ♟️EM CONSTRUÇÃO .... </h1></p>
+# ♟️Desafio Técnico GFT Start Woman Java
 
 <p align="justify">Mentoria com objetivo de realizar exercícios práticos que ajudem a resolver Desafio Técnico que poderá ser proposto após conclusão do Bootcamp GFT Start Woman Java.</p>
 
@@ -53,8 +51,8 @@
 	<p>
 	Regras:<br>
 		a) A entrada deverá estar entre 1000 e 9999;<br>
-		b) Se o usuário digitar 3 dígitos ou menos, o Programa avisa que tem que conter 4 dígitos e continuar a programação até a resposta final.<br>
-	</p>
+		b) Se o usuário digitar 3 dígitos ou menos, o Programa avisa que tem que conter 4 dígitos e continuar a programação até a resposta final.<br>	
+		</p>
 </li>
 <li>
 <p>
@@ -66,7 +64,7 @@
 		a) Crie 2 macacos; <br>
 		b) Considere que a quantidade máxima de alimentos é 3. Com isso, lembre-se de verificar o conteúdo do estômago a cada refeição (método “comer”). Por fim, o método “digerir” deve esvaziar o bucho do Macaco; <br> 
 		c) Alimentos “digeríveis” devem ser do tipo String, garanta isso em seu código para que não haja nenhum Macaco canibal 🙈.<br>
-	</p>
+		</p>
 </li>
 <li>
 <p>
@@ -79,7 +77,7 @@
 	a) Crie uma classe mãe chamada Funcionario com os atributos nome, cpf (passados pelo construtor), uma constante para armazenar o valor do salário mínimo e um método abstrato “calcularSalario”; <br>
 	b) Vendedores ganham 1 salário mínimo, mais uma comissão por vendas; <br>
 	c) Consultores ganham somente pelas horas que trabalharam. <br>
-</p>
+	</p>
 </li>
 
 	
@@ -99,7 +97,17 @@ b) Se você tirar 2, 3 ou 12 na primeira jogada, isto é chamado de "Craps" e vo
 c) Se, na primeira jogada, você fez um 4, 5, 6, 8, 9 ou 10, este é seu "Ponto";<br>
 d) Seu objetivo agora é continuar jogando os dados até tirar este número novamente;<br>
 e) Você perde, no entanto, se tirar um 7 antes de tirar este Ponto novamente.<br>
-</p>
+</p>  
+
+---  
+
+## 🏁Soluções propostas  
+
+[Classe Numero Reverso](https://github.com/rosacarla/Mentoria-GFT-Start-Java-Desafio-Tecnico/blob/master/src/desafios/NumeroReverso.java)  
+[Classe Macaco](https://github.com/rosacarla/Mentoria-GFT-Start-Java-Desafio-Tecnico/blob/master/src/desafios/Macaco.java)  
+[Classe Funcionarios](https://github.com/rosacarla/Mentoria-GFT-Start-Java-Desafio-Tecnico/tree/master/src/desafios/funcionarios)  
+[Jogo Craps](https://github.com/rosacarla/Mentoria-GFT-Start-Java-Desafio-Tecnico/blob/master/src/desafios/desafio/JogoCraps.java)  
+[Main - para execução dos códigos](https://github.com/rosacarla/Mentoria-GFT-Start-Java-Desafio-Tecnico/blob/master/src/Main.java)  
 
 ---
 ## ✍️ Autora  
