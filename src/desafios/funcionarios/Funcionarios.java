@@ -1,7 +1,6 @@
 package desafios.funcionarios;
 /*
-Considerando o diagrama abaixo, feito para uma empresa de vendas.
-Nesse contexto, utilize o conceito de Herança para remodelá-lo e implemente um programa que explore
+Considerando o diagrama feito para uma empresa de vendas, nesse contexto, utilize o conceito de Herança para remodelá-lo e implemente um programa que explore
 o domínio em questão:
 
 Regras:
@@ -10,17 +9,20 @@ uma constante para armazenar o valor do salário mínimo e um método abstrato �
 b) Vendedores ganham 1 salário mínimo, mais uma comissão por vendas;
 c) Consultores ganham somente pelas horas que trabalharam.
  */
-public abstract class Funcionario {
-  private String nome;
-  private long cpf;
-  protected final Double SALARIO_MINIMO = 1000.0;
 
-  public Funcionario(String nome, long cpf) {
+public abstract class Funcionarios {  //classe abstrata por ser classe mae
+  private String nome;
+  private long cpf; //poderia ser string
+  protected final Double SALARIO_MINIMO = 1000.0;  //constante armazena valor de sal minimo
+
+  //metodo construtor dos atributos
+  public Funcionarios(String nome, long cpf) {
     this.nome = nome;
     this.cpf = cpf;
   }
-  public abstract double calcularSalario();
+  public abstract double calcularSalario();  //metodo abstrato recebera logica nas classes filhas
 
+  //metodos getters e setters
   public String getNome() {
     return nome;
   }

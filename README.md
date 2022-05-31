@@ -98,7 +98,7 @@ a) Se, na primeira jogada, você tirar 7 ou 11, você é um "Natural" e ganha;<b
 b) Se você tirar 2, 3 ou 12 na primeira jogada, isto é chamado de "Craps" e você perdeu;<br>
 c) Se, na primeira jogada, você fez um 4, 5, 6, 8, 9 ou 10, este é seu "Ponto";<br>
 d) Seu objetivo agora é continuar jogando os dados até tirar este número novamente;<br>
-e) Você perde, no entanto, se tirar um 7 antes de tirar este Ponto novamente;<br>
+e) Você perde, no entanto, se tirar um 7 antes de tirar este Ponto novamente.<br>
 </p>
 
 ---

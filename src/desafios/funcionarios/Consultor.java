@@ -1,11 +1,12 @@
 package desafios.funcionarios;
 
-public class Consultor extends Funcionario {
+public class Consultor extends Funcionarios { //classe filha de Funcionario
   private double valorHora;
   private long horasTrabalhadas;
 
+  //metodo construtor
   public Consultor(String nome, long cpf, double valorHora, long horasTrabalhadas) {
-    super(nome, cpf);
+    super(nome, cpf);  //atributos herdados de Funcionario
     this.valorHora = valorHora;
     this.horasTrabalhadas = horasTrabalhadas;
   }
@@ -15,6 +16,7 @@ public class Consultor extends Funcionario {
     return valorHora * horasTrabalhadas;
   }
 
+  //metodos getters e setters
   public double getValorHora() {
     return valorHora;
   }
