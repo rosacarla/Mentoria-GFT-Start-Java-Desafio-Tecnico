@@ -1,24 +1,36 @@
-<h1>GFT Start Java</h1>
-<p>Esta mentoria tem como objetivo ajudar os Devs participantes do Programa GFT Start #5 Java a resolver o Desafio Técnico que será proposto aos selecionados  para as vagas oferecidas no fim do Bootcamp.</p>
-<h2> 🛑 Pré-requistos </h2>
+# Desafio Técnico GFT Start Woman Java
 
-- [x] Java JDK 8+ (Usarei JDK 11)
-- [x] IDE para desenvolvimento Java (Usarei IntelliJ Community)
-- [x] O básico sobre Git e GitHub
+<h1><p align="center"> ♟️EM CONSTRUÇÃO .... </h1></p>
+
+<p align="justify">Mentoria com objetivo de realizar exercícios práticos que ajudem a resolver Desafio Técnico que poderá ser proposto após conclusão do Bootcamp GFT Start Woman Java.</p>
+
+---  
+
+## 📌Pré-requisitos
+
+- [x] Java JDK 8+ 
+- [x] IDE para desenvolvimento Java (usada IntelliJ Community)
+- [x] Conhecimento básico sobre Git e GitHub
 - [x] Sintáxe básica Java
-- [x] Noção acerca de POO
+- [x] Noções de POO  
 
-<h2>Pensamento Computacional e Programação Orientada a Objetos</h2>
+---  
 
-<h3>Pensamento Computacional</h3>
-<p>A capacidade criativa, crítica e estratégica de utilizar as bases computacionais nas diferentes áreas de conhecimento para a resolução de problemas.<br>
-<img src="https://www.researchgate.net/profile/Carolina-Moreira-18/publication/337223452/figure/fig1/AS:824763496800256@1573650349341/Figura-1-Pilares-do-Pensamento-Computacional-Adaptado-de-Shoop-et-al-2016.ppm" width="600" height="400" alt="pensamento computacional">
-</p>
+## 🧠 Pensamento Computacional e Programação Orientada a Objetos
 
-<h3>Programação Orientada a Objetos</h3>
-<p>Modelo de análise, projeto e programação baseado na aproximação entre o mundo real e o mundo virtual, através da criação e interação entre classes, atributos, métodos, objetos, entre outros.</p>
+### 🖥️ Pensamento Computacional
 
-<p>Vantagens da Orientação a Objetos
+<p align="justify">A capacidade criativa, crítica e estratégica de utilizar as bases computacionais nas diferentes áreas de conhecimento para a resolução de problemas.</p>
+
+---  
+
+### 🔠 Programação Orientada a Objetos
+
+<p align="justify">Modelo de análise, projeto e programação baseado na aproximação entre o mundo real e o mundo virtual, através da criação e interação entre classes, atributos, métodos, objetos, entre outros.</p>  
+
+---  
+
+### 🎳 Vantagens da Orientação a Objetos
 <ul>
 <li>Paradigma mais utilizado no desenvolvimento​</li>
 <li>Redução do custo de manutenção</li>
@@ -27,11 +39,10 @@
 <li>Melhor interação entre as fases do projeto​</li>
 <li>Torna o trabalho em equipe mais produtivo​</li>
 </ul>
-<img src="https://materiais.imd.ufrn.br/materialV2/assets/imagens/programacao-orientada-a-objetos/prog_orient_a_obj_01_f04_l.jpg" width="600" height="400" alt="pilares da programação orientada a objetos">
-</p>
 
-<hr>
-<h2> EXERCICIOS </H2>
+---  
+
+## 👟 Exercícios  
 <ol>
 <li>
 	<p>
@@ -73,8 +84,11 @@
 
 	
 </ol>
-<h3> DESAFIO </h3>
-<p> 
+
+---  
+
+## 💙 Desafio  
+
 <strong>Jogo de Craps:</strong><br>
 Faça um programa que implemente um jogo de Craps. O jogador lança um par de dados, obtendo um valor entre 2 e 12.<br>
 
@@ -86,21 +100,18 @@ c) Se, na primeira jogada, você fez um 4, 5, 6, 8, 9 ou 10, este é seu "Ponto"
 d) Seu objetivo agora é continuar jogando os dados até tirar este número novamente;<br>
 e) Você perde, no entanto, se tirar um 7 antes de tirar este Ponto novamente;<br>
 </p>
-<hr>
-<h2> 🤝 Contribuindo </h2>
-<p>
-Este repositório foi criado para fins de estudo, então contribua com ele.<br>
-Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.<br>
-<br>
-Se possível:<br>
-⭐️  Star o projeto<br>
-🐛 Encontrar e relatar issues<br>
-</p>
 
+---
+## ✍️ Autora  
 
-Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
+Carla Edila Silveira  
+Contato: rosa.carla@pucpr.edu.br  
 
+---
 
+## 🔗 Links úteis  
 
+[]()  
+[]()  
 
-
+---
