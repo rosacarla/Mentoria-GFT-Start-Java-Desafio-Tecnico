@@ -123,5 +123,6 @@ Contato: rosa.carla@pucpr.edu.br
 [Java Collections: Como utilizar Collections](https://www.devmedia.com.br/java-collections-como-utilizar-collections/18450)  
 [Java e Orientação a Objetos > Resoluções de Exercícios](https://www.alura.com.br/apostila-java-orientacao-objetos/resolucoes-exercicios?gclid=Cj0KCQjw-daUBhCIARIsALbkjSbgCqqHxJHTyPyo3OarlvROfOLrtsLXPTdvUkNrZmCfeHqPVhPUDW8aAiVfEALw_wcB)  
 [POO - Programação Orientada a Objetos - Exercícios Resolvidos de Java](https://www.arquivodecodigos.com.br/dicas/3435-java-poo-programacao-orientada-a-objetos-exercicio-resolvido-2-a-classe-circulo-construtores-metodos-getters-e-setters-e-encapsulamento.html)  
+[Programação Orientada a Objetos - exercícios](https://github.com/tiagoboeing/poo)
 
 ---
